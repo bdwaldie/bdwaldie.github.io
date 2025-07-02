@@ -52,12 +52,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Research
-    url:               /research/
-  - title:             Resume
-    url:               /resume/
-  - title:             About
-    url:               /about/
+  - title:             Security Position Scores
+    url:               https://drive.google.com/file/d/1ddEf5_RQZXPWJgl8q0c1gEC71Y2BDso9/view?usp=sharing
+#  - title:             Research
+#    url:               /research/
+#  - title:             Resume
+#    url:               /resume/
+#  - title:             About
+#    url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
