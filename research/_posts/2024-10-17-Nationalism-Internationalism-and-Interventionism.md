@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Paper Published
+title: New Paper - Nationalism, Internationalism, and Interventionism
 image: 
   path: /assets/img/blog/america_day.jpg
 description: >
