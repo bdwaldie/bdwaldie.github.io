@@ -52,9 +52,9 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Security Position Scores
+  - title:             Security Position Scores (SPS)
     url:               https://drive.google.com/file/d/1ddEf5_RQZXPWJgl8q0c1gEC71Y2BDso9/view?usp=sharing
-  - title:             Replication For Security Position Scores
+  - title:             Replication Data For SPS
     url:               https://colab.research.google.com/drive/1gkTHh_KcLuhu-S1CS_dw4OPkCptZFqqz?usp=sharing
 #  - title:             Resume
 #    url:               /resume/
